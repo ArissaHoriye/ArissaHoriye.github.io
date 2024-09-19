@@ -1,3 +1,4 @@
 # ArissaHoriye.github.io
 
-some description
+an art portifolio
+
