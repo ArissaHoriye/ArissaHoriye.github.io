@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: hello
-title: HOME
+title: HELLO
 ---
 
 # hey
